@@ -1,0 +1,222 @@
+
+bersih
+bi = '\ 033 [34; 1 m bir
+i = '\ 033 [32; 1m # ijo' 
+pur = '\ 033 [35; 1 m '# ungu
+cy = ' \ 033 [36; 1m '  # cyan
+saya = ' \ 033 [31; 1m '  # merah
+pu = ' \ 033 [37; 1m '  # putih
+ku = ' \ 033 [33; 1m '  # kuning
+gema
+gema
+python2 meizu.py
+gema
+bersih
+gema
+echo  $ red "          Alat akan di instal dalam waktu 5 detik "
+echo  $ red "                       harap tunggu tunggu bos :) "   
+tidur 1
+gema  ' ' ' \ a
+\ 033 [34; 1j _
+\ 033 [34; 1m / |
+\ 033 [34; 1m | |
+\ 033 [34; 1m | |
+\ 033 [34; 1m _ | _ | _ ' ' '
+tidur 1
+bersih
+gema
+gema
+gema
+gema
+echo  $ red "          Alat akan di instal dalam waktu 5 detik "
+echo  $ red "                       harap tunggu tunggu bos :) "
+tidur 1
+gema  ' ' ' \ a
+\ 033 [32; 1m ____
+\ 033 [32; 1m | ___ \
+\ 033 [32; 1m __) |
+\ 033 [32; 1m / __ /
+\ 033 [32; 1m | _____ | ' ' '
+gema
+gema
+gema
+echo  $ red "          Alat akan di instal dalam waktu 5 detik "
+echo  $ red "                       harap tunggu tunggu bos :) "
+tidur 1
+bersih
+gema  ' ' ' \ a
+\ 033 [35; 1m _____
+\ 033 [35; 1m | ___ /
+\ 033 [35; 1m | _ \
+\ 033 [35; 1m ___) |
+\ 033 [35; 1m | ____ / ' ' '
+tidur 1
+bersih
+gema
+gema
+gema
+gema
+echo  $ red "          Alat akan di instal dalam waktu 5 detik "
+echo  $ red "                       harap tunggu tunggu bos :) "
+tidur 1
+gema  ' ' ' \ a
+\ 033 [33; 1m _ _
+\ 033 [33; 1m | || |
+\ 033 [33; 1m | || | _
+\ 033 [33; 1m | __ _ |
+\ 033 [33; 1m | _ | ' ' '
+tidur 1
+bersih
+gema
+gema
+gema
+gema
+echo  $ red "          Alat akan di instal dalam waktu 5 detik "
+echo  $ red "                       harap tunggu tunggu bos :) "
+tidur 1
+gema  ' ' ' \ a
+\ 033 [36; 1m ____
+\ 033 [36; 1m | ___ |
+\ 033 [36; 1m | ___ \
+\ 033 [36; 1m ___) |
+\ 033 [36; 1m | ____ / ' ' '
+tidur 1
+bersih
+gema
+echo  $ pur " =================== " $ cy " =================== "
+echo $ i "█" $ pu "AUTHOR: RianW" $ i "" 
+echo $ i "█" $ pu "WhatsApp: 08953635 *****" $ i ""
+echo  $ i " █ " $ pu "   GMAIL: riandiningrat212@gmail.com " $ i " █ "
+echo  $ i " █ " $ pu "   YOUTUBE: Rian Arisadi " $ i "              █ "
+echo  $ pur " =================== " $ cy " =================== "
+gema
+echo  $ cy " Peretasan Alat Menu: "
+echo  $ ku " [ " $ me " 1 " $ ku " ] " $ i " LAPORAN FB "
+echo  $ ku " [ " $ me " 2 " $ ku " ] " $ i " BRUTE PORCE "
+echo  $ ku " [ " $ me " 3 " $ ku " ] " $ i " BRUTE FORCE FB CRACKER "
+echo  $ ku " [ " $ me " 4 " $ ku " ] " $ i " MBF "
+echo  $ ku " [ " $ me " 5 " $ ku " ] " $ i " CLONING YAHOO "
+echo  $ ku " [ " $ me " 6 " $ ku " ] " $ i " OSIF "
+echo  $ ku " [ " $ me " 7 " $ ku " ] " $ i " PROFILEGUARD FB "
+echo  $ ku " [ " $ me " 8 " $ ku " ] " $ i " BOT REAKSI FACEBOOK "
+echo  $ ku " [ " $ me " 9 " $ ku " ] " $ i " CALL SPAM "
+echo  $ i " [ " $ me " 10 " $ i " ] " $ ku " EXIT "
+gema
+echo  $ pur " ╭─ [ " $ pur " Masukkan pilihan Anda " $ pur " ] "
+baca -p " ╰─ >> " pil
+
+if [ $ pil  = 1]
+kemudian
+bersih
+figlet -f miring " WAIT " | lolcat
+tidur 1
+git clone https://github.com/IlayTamvan/Report.git
+laporan cd
+unzip Report.zip
+python2 Report.py
+fi
+
+if [ $ pil  = 2]
+kemudian
+bersih
+figlet -f miring " WAIT " | lolcat
+tidur 1
+git clone https://github.com/edi-nasa12/fb-brute.git
+cd fb-brute
+python2 brute.py
+fi
+
+if [ $ pil  = 3]
+kemudian
+bersih
+figlet -f miring " WAIT " | lolcat
+tidur 1
+git clone https://github.com/rianwk/fb-crack
+cd fb-crack
+python2 cracker.py
+fi
+
+if [ $ pil  = 4]
+kemudian
+bersih
+figlet -f miring " WAIT " | lolcat
+tidur 1
+git clone https://github.com/edi-nasa12/Windows7.git
+cd Windows7
+python2 MBF.py
+fi
+
+if [ $ pil  = 5]
+kemudian
+bersih
+figlet -f miring " WAIT " | lolcat
+tidur 1
+git clone https://github.com/edi-nasa12/CloningYahoo.git
+cd CloningYahoo
+Instal pip2 mekanis
+permintaan instalasi pip2 
+pip2 install --upgrade pip
+chmod + x cloning.py 
+python2 cloning.py
+fi
+
+if [ $ pil  = 6]
+kemudian
+bersih
+figlet -f miring " WAIT " | lolcat
+tidur 1
+git clone https://github.com/edi-nasa12/OSIF.git
+cd OSIF
+pip2 instal -r requirement.txt
+python2 osif.py
+fi
+
+if [ $ pil  = 7]
+kemudian
+bersih
+figlet -f miring " WAIT " | lolcat
+tidur 1
+git clone https://github.com/rianwk/profil-guard
+cd profil-guard
+php fb-guard.php
+fi
+
+if [ $ pil  = 8]
+kemudian
+bersih
+figlet -f miring " WAIT " | lolcat
+tidur 1
+git clone https://github.com/rianwk/Bot-Facebook
+cd Bot-Facebook
+python2 bot-facebook.py
+fi
+
+if [ $ pil  = 9]
+kemudian
+bersih
+figlet -f miring " WAIT " | lolcat
+tidur 1
+git clone https://github.com/Aditya021/SpamCall
+cd SpamCall
+php SpamCall.php
+fi
+
+if [ $ pil  = 10]
+kemudian
+bersih
+figlet -f miring " WAIT " | Ulolcat
+tidur 2
+echo  $ cy " Terima Kasih yang sudah menggunakan Tools ini "
+tidur 2
+echo  $ i " Silakan pakai dan jangan disalah pergunakan "
+tidur 2
+echo  $ pur " Bila Ada Kesalahan dan Tidak Dapat Dihubungi Anda Bisa Melalui "
+tidur 2
+echo  $ ku " Facebook: " $ i " RianWk "
+echo  $ ku " YouTube: " $ i " Rian Arisandi "
+echo  $ ku " WhatsApp: " $ i " 0895363523xxx "
+tidur 2
+echo  $ pur " Terima kasih, jangan lupa mendukung saya trus :) "
+keluar
+fi
+
